@@ -48,7 +48,7 @@ You want Code Review to be valuable, and that means you want people to give hone
 You're working together for the project to succeed
 This is NEVER the place to make fun of someone's code, to insult what they have done, or any other unprofessional behavior.
 
-Reviews are an AMAZING change to share knowledge. If the review can't understand the code/change, that's a sign you need better comments/docs!
+Reviews are an AMAZING change to share knowledge. If the reviewer can't understand the code/change, that's a sign you need better comments/docs!
 
 Sidenote: I draw a distinction between "business formal" and "professional" in reviews here. Emojis are welcome! Shitposting is not.
 
