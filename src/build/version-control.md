@@ -23,9 +23,9 @@ When do you do merges? When do you rebase? Should the code on `main` always buil
 
 The actual strategy doesn't matter, but consistency does! So pick something, write it down, and change it if you need to! (this will be a recurring theme for the whole book).
 
-[@PhilKoopman](https://twitter.com/PhilKoopman) calls this having "just enough paper", and I love this term and use it with my clients a lot
+[@PhilKoopman](https://twitter.com/PhilKoopman) calls this having "just enough paper", and I love this term and use it with my clients a lot.
 
-Also, side note, you should go buy Koopman's "Better Embedded System Software" book. It is seriously one of the best references for introducing teams to important topics inside and outside of the safety critical domain
+Also, side note, you should go buy Koopman's "Better Embedded System Software" book. It is seriously one of the best references for introducing teams to important topics inside and outside of the safety critical domain.
 
 It explains a lot of systems stuff you should know amazingly.
 
