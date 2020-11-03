@@ -10,3 +10,5 @@
     - [Code Reviews](./build/code-reviews.md)
 - [Debug](./debug/intro.md)
     - [Eyeball Debugging](./debug/eyeball.md)
+- [Observe](./observe/intro.md)
+    - [Reset Reason](./observe/reset-reason.md)
