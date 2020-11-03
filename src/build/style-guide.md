@@ -25,7 +25,7 @@ It also makes it easy to document your style: It's documented in the config file
 Having a consistent code formatting helps in a couple ways:
 
 1. It makes odd things harder harder to hide. You'd be surprised at how good people are at noticing something "looks odd", even if they don't know why! Capitalize on this.
-2. It reduces unproductive discussions during code review. don't waste time making 20 formatting nitpicks, just one "run the formatter" comment, then don't talk about format in code review!
+2. It reduces unproductive discussions during code review. Don't waste time making 20 formatting nitpicks, just one "run the formatter" comment, then don't talk about format in code review!
 3. It makes changing the style the same as changing your code: If you want to change the rules? Okay! Open a pull request to change the formatter config file, and discuss the pros/cons there. Now you have a record of why decisions were made too!
 
 As a note: you should probably have team policy on what to do whenever you change the formatting rules.
