@@ -30,7 +30,7 @@ For these reasons, you may also want to store some trace of this BEFORE you rebo
 
 Often, the easiest way to do this is to put it in a chunk of RAM that doesn't get initialized on boot. The idea is that:
 
-* when you panic, write a flag to uninit memory
+* When you panic, write a flag to uninit memory
 * Cause a soft reset
 * On boot, check for that flag
 * If you see it, report it then clear the flag
