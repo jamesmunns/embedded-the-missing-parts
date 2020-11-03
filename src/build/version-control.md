@@ -5,7 +5,7 @@ You need a way to refer to specific versions of your software on a change-by-cha
 
 What version did you send to be tested? What is the version that is on the unit that is acting funny?
 
-Is is the real 0.4.0, or did someone just forget to bump the version number?
+Is it the real 0.4.0, or did someone just forget to bump the version number?
 
 You also want to see how your project changed over time, and at some point, figure out where/why some feature or bug got introduced. Version control is like having "save points" for your code, and let you easily "roll back time" to test things out, or go back to a known-good.
 
