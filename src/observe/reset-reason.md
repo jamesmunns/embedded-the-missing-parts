@@ -30,7 +30,7 @@ For these reasons, you may also want to store some trace of this BEFORE you rebo
 
 Often, the easiest way to do this is to put it in a chunk of RAM that doesn't get initialized on boot. The idea is that:
 
-* when you panic, write a flag to uninit memory
+* When you panic, write a flag to uninit memory
 * Cause a soft reset
 * On boot, check for that flag
 * If you see it, report it then clear the flag
@@ -61,7 +61,7 @@ Certain faults, like an invalid memory access, division by zero, or secure zone 
 
 These are signs of a potentially serious software defect! We can register handlers for faults like a HardFault, and use that handler to write the fault status registers to RAM, so we can retrieve them after our next boot.
 
-We can also grab even more information, like the contents of our stack pointer, link register, or even look at unwinding the stack to figure out how we got to the unfortunately place that we are right now.
+We can also grab even more information, like the contents of our stack pointer, link register, or even look at unwinding the stack to figure out how we got to the unfortunate place that we are right now.
 
 This can be invaluable info when hunting down a heisenbug!
 

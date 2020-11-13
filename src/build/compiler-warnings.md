@@ -34,7 +34,7 @@ This isn't okay for avionics, but I'd say it's "above average" for consumer proj
 
 Ideally if you use C/C++, you should try having your code built by at least two compilers. This is useful for a couple reasons:
 
-1. It keeps you honest about writing portable code
+1. It keeps you honest about writing portable code.
 2. Different compilers have different warnings. You want all the info you can get!
 3. When using GCC/Clang, this is a great way to get a "second opinion" for free (in terms of cost).
 

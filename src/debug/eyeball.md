@@ -47,8 +47,9 @@ You can also get secondary colors in there too, without even worrying about fanc
 
 Note: some people are colorblind, and so RGB is less useful. It's always good to know if anyone on your team has troubles with things like this, so you might choose to use 3 discrete LEDs instead of an RGB if this impacts your team.
 
-Also good to keep in mind for released products
-On a recent project, I had a wireless device getting "stuck". I didn't have a debugger attached, so I wanted to see the problem at a glance
+Also good to keep in mind for released products.
+
+On a recent project, I had a wireless device getting "stuck". I didn't have a debugger attached, so I wanted to see the problem at a glance.
 
 I used Red with a long blink for "background task", Green for "Received Packet", and Blue for "Sent Packet". Short Red blink was for errors.
 
