@@ -2,7 +2,7 @@
 
 This one tends to get a bit contentious, but it doesn't have to be! A style guide covers a couple things, mostly how you format your code (tabs, spaces, etc).
 
-Now, I'm going to start off by saying: the actual style you choose doesn't really make sense. Tabs, spaces, same line brackets, whatever. Do whatever your team can agree on.
+Now, I'm going to start off by saying: the actual style you choose doesn't really matter. Tabs, spaces, same line brackets, whatever. Do whatever your team can agree on.
 
 But be strict about it! The rules can change over time, but the key here is (again) consistency!
 
